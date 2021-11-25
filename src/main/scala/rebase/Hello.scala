@@ -4,11 +4,11 @@ object Hello extends App {
 
   println("Hello, Dan!")
 
-  println("Hello, Michal!")
+  println("HI, Michal!")
 
-  println("Hello, Zahir!")
+  println("Hello, ZAHIR!")
 
-  println("Hello, Jack!")
+  println("HELLO, Jack!")
 
   println("Hello, Darrell!")
 
