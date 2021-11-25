@@ -20,9 +20,16 @@ object Hello extends App {
       | git checkout main && git pull && git checkout -
       | (alias 'gpm' for me)
       |
+      |Then make sure you have committed your worl on this branch
+      |
       |Then rebase interactively:
       | git rebase -i main
       | (alias 'grim' for me)
+      |
+      |Next, typically you save the rebase commit message as is
+      |containing the commits current on your branch (more advanced options available)
+      |  "pick <commit_id> <commit_msg"
+      |[save]
       |
       |
       |""".stripMargin
