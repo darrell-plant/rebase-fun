@@ -6,7 +6,7 @@ object Hello extends App {
 
   println("Hi, Michal!")
 
-  println("Hello, ZAHIR!")
+  println("Hi, ZAHIR!")
 
   println("Hi, Jack!")
 
