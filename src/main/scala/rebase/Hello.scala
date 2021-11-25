@@ -20,7 +20,7 @@ object Hello extends App {
       | git checkout main && git pull && git checkout -
       | (alias 'gpm' for me)
       |
-      |Then make sure you have committed your worl on this branch
+      |Then make sure you have committed your work on this branch
       |
       |Then rebase interactively:
       | git rebase -i main
