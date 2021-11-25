@@ -31,6 +31,10 @@ object Hello extends App {
       |  "pick <commit_id> <commit_msg"
       |[save]
       |
+      |If all goes well, then rebase is complete.
+      |
+      |There may be merge conflicts though
+      |
       |
       |""".stripMargin
   )
