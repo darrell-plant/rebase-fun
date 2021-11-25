@@ -2,15 +2,15 @@ package rebase
 
 object Hello extends App {
 
-  println("Hello, Dan!")
+  println("Hi, Dan!")
 
-  println("HI, Michal!")
+  println("Hi, Michal!")
 
-  println("Hello, ZAHIR!")
+  println("Hi, ZAHIR!")
 
-  println("HELLO, Jack!")
+  println("Hi, Jack!")
 
-  println("Hello, Darrell!")
+  println("Hi, Darrell!")
 
   println("How to git rebase...")
 
