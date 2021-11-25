@@ -34,3 +34,5 @@ project/metals.sbt
 
 ## Data
 *.csv
+
+.bsp
